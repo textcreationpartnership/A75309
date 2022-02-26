@@ -1,0 +1,518 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Anabaptists catechisme with all their practises, meetings and exercises: the names of their pastors, their trades, and places of meeting, their doctrine and discipline; a catalogue of such dishes as they usually make choice of at their feasts: how, and by whom they are dipped: and all other things belonging to their society and brotherhood. Published according to order of their conventicles.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75309</idno>
+            <idno type="STC">Wing A3039</idno>
+            <idno type="STC">Thomason E1185_8</idno>
+            <idno type="STC">ESTC R556</idno>
+            <idno type="EEBO-CITATION">99872862</idno>
+            <idno type="PROQUEST">99872862</idno>
+            <idno type="VID">169444</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75309)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169444)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1185[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Anabaptists catechisme with all their practises, meetings and exercises: the names of their pastors, their trades, and places of meeting, their doctrine and discipline; a catalogue of such dishes as they usually make choice of at their feasts: how, and by whom they are dipped: and all other things belonging to their society and brotherhood. Published according to order of their conventicles.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.A.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "7bre [i.e. September] 11th".</note>
+                  <note>Reproductions of the originals in the British Library (Thomason Tracts) and the Henry E. Huntington Library and Art Gallery (Early English books).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anabaptists --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169444:1" rendition="simple:additions"/>
+            <p>THE ANABAPTISTS CATECHISME:</p>
+            <p>WITH All their Practiſes, Meet<g ref="char:EOLhyphen"/>ings and Exerciſes:</p>
+            <p>The names of their Paſtors, their trades, and places of meeting, their Doctrine and Diſcipline; a Catalogue of ſuch diſhes as they uſually make choice of at their Feaſts: How, and by whom they are dipped: and all other things belonging to their Society and Brotherhood.</p>
+            <p>
+               <hi>☾ A a b c d e f g h i k l m n o p q r r ſ s t v u w x y z &amp;.</hi>
+            </p>
+            <p>Publiſhed according to Order of their Conventicles.</p>
+            <p>Printed for <hi>R. A.</hi> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:169444:2"/>
+            <pb n="1" facs="tcp:169444:2"/>
+            <head>THE ANABAPTISTS CATECHISME.</head>
+            <p>
+               <label>Queſtion.</label> 
+               <hi>
+                  <seg rend="decorInit">W</seg>Hat is your name?</hi>
+            </p>
+            <p>
+               <label>Anſwer.</label> Anabaptiſt.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Who gave you that name?</hi>
+            </p>
+            <p>
+               <label>A.</label> The prieſtly Fathers, and learned Schollers of the world, who ſtudy the profane tongues of Greeke and Lataine, and ſtill retaine the ſuper<g ref="char:EOLhyphen"/>ſtitious Ceremony of the Hebrew, and uſe all the languages of the beaſt.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Why are you called Anabaptiſts?</hi>
+            </p>
+            <p>
+               <label>A.</label> Becauſe we went naked into the pure wa<g ref="char:EOLhyphen"/>ter, and were dipped in the holy ſtreames, where we clenſed our bodies (from the corrup<g ref="char:EOLhyphen"/>tion that was before upon us) in the preſence of the Brethren, and the Siſters of the Congre<g ref="char:EOLhyphen"/>gation.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Why was the Congregation preſent at that time?</hi>
+            </p>
+            <p>
+               <pb n="2" facs="tcp:169444:3"/>
+               <hi>A.</hi> To be witneſſes of the promiſes which the Dippers then cauſed me to make.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What were the promiſes that were made between you and the Congregation?</hi>
+            </p>
+            <p>
+               <label>A.</label> Firſt, that I ſhould forſake all the learned, and renounce the wiſe, and men of underſtan<g ref="char:EOLhyphen"/>ding, to follow the Communion of Fooles, and ſimple people, and that all things may be com<g ref="char:EOLhyphen"/>mon among us.</p>
+            <p>Secondly, that I ſhould beleeve a ſiſter, and take her word, and ſhe mine, without the abo<g ref="char:EOLhyphen"/>minable ceremony of Marriage.</p>
+            <p>Thirdly, that I ſhould keep the ſecrets of all the Brethren, and Siſters, and walke in the ſame all the daies of my life.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Doeſt thou not think that thou art bound to all that thou haſt promiſed?</hi>
+            </p>
+            <p>
+               <label>A.</label> Yes truly, and (had I nothing elſe to bind me) it is tye enough to keep the favours of our loving company.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Which is the way to keep ſtill in favour with them?</hi>
+            </p>
+            <p>
+               <label>A.</label> To be conſtant (againſt all reaſon) in the maintenance and defence of their opinions.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What be the opinions of the Anabaptiſts?</hi>
+            </p>
+            <p>
+               <label>A.</label> The Anabaptiſts are of opinion that they may do what they will if conſcience moves them to it, and they are of opinion that infants are not
+<pb n="3" facs="tcp:169444:3"/>
+fit to be baptiſed, nor received into the Commu<g ref="char:EOLhyphen"/>nion and brotherly fellowſhip, till they be of big<g ref="char:EOLhyphen"/>neſſe fit to accompany with; And that men and women have no ſouls more than their life blood. Alſo that what the conſcience approves of, can<g ref="char:EOLhyphen"/>not be ill, and that all men and women who are not of this minde, are the prophane of the world, who have not any power at all to com<g ref="char:EOLhyphen"/>mand us to any thing againſt our conſciences.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Are all Independants of your opinion?</hi>
+            </p>
+            <p>
+               <label>A.</label> No, none but only Anabaptiſts.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Why, are not you Independants?</hi>
+            </p>
+            <p>
+               <label>A.</label> Yes, but Independants differ in judge<g ref="char:EOLhyphen"/>ment.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is the main thing that you and Inde<g ref="char:EOLhyphen"/>pendants d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffer in?</hi>
+            </p>
+            <p>
+               <label>A.</label> We differ very much from them, for though you call them Independants (a name too honourable for them, yet) they are none, for they do allow of lawes, and orders, and blacke-coats, and prophane learning, and ſuperſtitious preach<g ref="char:EOLhyphen"/>ing in Pulpits, and many ſuch things the Inde<g ref="char:EOLhyphen"/>pendants approve of, but we dare not allow of any ſuch things.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>If you caſt off all order, by what Diſcipline do you walke?</hi>
+            </p>
+            <p>
+               <label>A.</label> Diſcipline I do you talke to us of Diſci<g ref="char:EOLhyphen"/>pline? what doe you thinke we cannot walke
+<pb n="4" facs="tcp:169444:4"/>
+without Diſcipline: alas! alas! we have a liberty (which the reſt of the world are ignorant of) there is never a one of us but may follow what Diſcipline he thinks in his own conſcience is beſt and thats a pleaſant Diſcipline.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>How can you agree together, and continue your meeting, without ſome manner of Order, or Diſcipline, to do it by?</hi>
+            </p>
+            <p>
+               <label>A.</label> Why, let me tell you, there is ſo much correſpondency in affection amongſt us, that all the Brethren, and the Siſters, will agree, they are reſolved upon that, ſo ſoon as they are made Anabaptiſts. After which they will not in any caſe offend the conſciences of the weak, in any thing tending to the further kindling of the love of one to another.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What Cuſtomes have you in your mee<g ref="char:EOLhyphen"/>tings? have you no lawes?</hi>
+            </p>
+            <p>
+               <label>A.</label> Cuſtomes, oh fie upon them, they are Po<g ref="char:EOLhyphen"/>piſh, we hate the very name of ſuperſtitious Cuſtomes and lawes are a burden that we can<g ref="char:EOLhyphen"/>not beare.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What then is the rule by which you walke?</hi>
+            </p>
+            <p>
+               <label>A.</label> We are a free-borne people, and have pri<g ref="char:EOLhyphen"/>viledges above all rule.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>How many priviledges have you?</hi>
+            </p>
+            <p>
+               <label>A.</label> Ten.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Which be they?</hi>
+            </p>
+            <p>
+               <pb n="5" facs="tcp:169444:4"/>
+               <hi>A.</hi>
+               <list>
+                  <item>1. That all the goods, husband, wife, and all things whatſoever, any of the Congrega<g ref="char:EOLhyphen"/>tion have is in common to all.</item>
+                  <item>2. That we are free from bowing down under the yoke of mans Law, and Rule, and all obedi<g ref="char:EOLhyphen"/>ence, and ſubjection whatſoever.</item>
+                  <item>3. That wee are free from all oaths and cove<g ref="char:EOLhyphen"/>nants, either with the King, Parliament, or Peo<g ref="char:EOLhyphen"/>ple, ſo we keep promiſe amongſt our ſelves.</item>
+                  <item>4. We are priviledged from the burden of the Sabbath, and are not ſtrict in obſerving of it, e<g ref="char:EOLhyphen"/>verie man is left to himſelfe, to keep it, or not to keep it, as he will himſelfe.</item>
+                  <item>5. Wee give no honour, nor reſpect to one more than to another; but are (without all dif<g ref="char:EOLhyphen"/>ference of perſons) hale fellow, well met, when we are together.</item>
+                  <item>6. Wee are free from bloud-ſhed, and will not kill, no not a Lowſe; nor do wee hold it fit that any ſhould bee puniſhed for his infir<g ref="char:EOLhyphen"/>mities.</item>
+                  <item>7. No man is to lye with his brothers wife, whilſt her husband is in preſence, except hee be faſt aſleep, or dead drunk.</item>
+                  <item>8. Whoſoever deſires to live without taking paines, to get his living by his trade and calling, hee may go from houſe to houſe, to be releeved with all that he can get.</item>
+                  <item>
+                     <pb n="6" facs="tcp:169444:5"/>9. None of the fellowſhip dare preſume to diſcloſe the ſecrets of our Conventicles to the profane, leſt the world render us more odious than they do already.</item>
+                  <item>10. None of the Fellowſhip is to keep his houſe, his table, his wife, his ſervant, his eſtate, or any thing he hath, for himſelfe; but is to let any member of the Congregation partake with him of all things in common.</item>
+               </list>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>What uſe do you make of theſe priviledges?</hi>
+            </p>
+            <p>
+               <label>A.</label> Wee have two ſpeciall benefits by them; firſt, in having a ſhare in the Brethrens goods; and ſecondly, in having a right in the Siſters af<g ref="char:EOLhyphen"/>fections.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>How do you do to get to ſhare with the bre<g ref="char:EOLhyphen"/>thren in their goods?</hi>
+            </p>
+            <p>
+               <label>A.</label> Wee go to the Paſtour, and he procures any thing for us that we want.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>In what way do you addreſſe your ſelves to the Siſters?</hi>
+            </p>
+            <p>
+               <label>A.</label> Wee put off our hats, and make them a leg, look devoutly upon them ſmiling, with our ſparkling eyes, enough to enamour a Lady.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Who are your Preachers, and what are they?</hi>
+            </p>
+            <p>
+               <label>A.</label> There are divers: <hi>viz.</hi> Mr. <hi>Patience,</hi> an honeſt Glover; Mr. <hi>Griffin,</hi> a reverend Taylor; Mr. <hi>Knowles,</hi> a learned Scholler; Mr. <hi>Spilſbey,</hi>
+               <pb n="7" facs="tcp:169444:5"/>
+a renowned Cobler; Mr. <hi>Barber,</hi> a Button-ma<g ref="char:EOLhyphen"/>ker, and divers others, moſt gallant Teachers, well grounded in their opinions.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Where are your places of meeting?</hi>
+            </p>
+            <p>
+               <label>A.</label> We have many places, and are glad when we can meet quietly in any of them.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>But have you not ſome joviall meetings, where you uſe to be merrie ſometimes?</hi>
+            </p>
+            <p>
+               <label>A.</label> Yes, that we have.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Where is that?</hi>
+            </p>
+            <p>
+               <label>A.</label> At Weſtminſter.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Where there?</hi>
+            </p>
+            <p>
+               <label>A.</label> We have met at ſeverall places; wee met often at a great houſe in the new Palace by Weſtminſter-Hall; but when wee asked the name of the place, they ſaid it was Hell; O then we hated that profane place, and would ne<g ref="char:EOLhyphen"/>ver come in it after: and they ſay there is a place called Heaven in the Old Palace; but wee could never find that place out, and ſo wee dined ſince at <hi>Adam</hi> and <hi>Eve.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>What had you to dinner?</hi>
+            </p>
+            <p>
+               <label>A.</label> Thus is the Liſt of our Meſſe:
+<list>
+                  <item>1 <hi>Imprimis.</hi> The mumping Cruſt of an hot loafe boyled with a Calves head and Bacon.</item>
+                  <item>2 <hi>Item.</hi> The neck of a young Coney boyled to a jelly.</item>
+                  <item>3 <hi>Item.</hi> The ſhoulder of a grave, long-bear<g ref="char:EOLhyphen"/>ded
+<pb n="8" facs="tcp:169444:6"/>
+Goat, ſtewed between two diſhes, ſtuffed with Cocks combs, &amp; larded with Gooſe greaſe.</item>
+                  <item>4 <hi>Item.</hi> The breſt of a fat Capon well ſoaked in white broth, ſtuffed with Daſies and Cow<g ref="char:EOLhyphen"/>ſtips.</item>
+                  <item>5 <hi>Item.</hi> A loyne of young Mutton well car<g ref="char:EOLhyphen"/>bonado'd, with a plump kidney, as round as an apple.</item>
+                  <item>6 <hi>Item.</hi> The rump of a Woodcock baked with a paire of Gooſe gibblets.</item>
+                  <item>7 <hi>Item.</hi> A Leg of Lamb larded with Trot<g ref="char:EOLhyphen"/>ters, and roſted till it be as browne as a Berry.</item>
+                  <item>8 <hi>Item.</hi> A well made and neatly dreſſed Neats-foot Pye, full of plums and ſpices.</item>
+                  <item>9 <hi>Item.</hi> A diſh a Pigs petty-toes ſtewed in plumb-broth.</item>
+                  <item>10 <hi>Item.</hi> A diſh of freſh Lobſters ſoaked all night in vinegar.</item>
+                  <item>11 <hi>Item.</hi> A ſheeps head boyled with wooll and hornes, for a ſtanding diſh for the brethren.</item>
+                  <item>12 <hi>Item.</hi> An Humble Pye for the ſiſters, after the brethren are riſen.</item>
+               </list>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>What Officers have you in your Church diſcipline?</hi>
+            </p>
+            <p>
+               <label>A.</label> Wee have firſt the Paſtour, ſecondly the Deacon, and thirdly the Congregation, and none elſe at all.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is the office of the Paſtour?</hi>
+            </p>
+            <p>
+               <pb n="9" facs="tcp:169444:6"/>
+               <label>A,</label> Hee teacheth and inſtructeth the Congre<g ref="char:EOLhyphen"/>gation; and when any are received into the fel<g ref="char:EOLhyphen"/>lowſhip of the Church to walk with him; hee examines them, and if they be found right, then he dips them.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>In what manner doth he teach you?</hi>
+            </p>
+            <p>
+               <label>A.</label> Wee meet in ſome convenient houſe, and hee making choyce of the privateſt place that hee can in the houſe, hee (after the Deacon hath prayed with the Congregation, and exhorted them) prayes, and then preacheth an houre or two, or ſometimes three, more or leſſe, as hee finds his gheſts ſtraitened or enlarged.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Do none come to heare him preach, but only thoſe who are in Church-fellowſhip?</hi>
+            </p>
+            <p>
+               <label>A.</label> Yes, if they be brought in by ſome friend, that wee may be ſure they come not to ſpie us, they may come to heate, or joyne with us in the Church contribution, but can partake with us no further.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Muſt the people do whatſoever he binds them to obſerve?</hi>
+            </p>
+            <p>
+               <label>A.</label> There is an oath, which is adminiſtred to all before they be received into Church-fel<g ref="char:EOLhyphen"/>lowſhip with us.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Do you ſwear all before you receive them into communion with you?</hi>
+            </p>
+            <p>
+               <label>A.</label> Yes, elſe they are not admitted.</p>
+            <p>
+               <pb n="10" facs="tcp:169444:7"/>
+               <label>Q.</label> 
+               <hi>Do other Independants do ſo?</hi>
+            </p>
+            <p>
+               <label>A.</label> No they have not that policie.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is it that you make them ſweare be<g ref="char:EOLhyphen"/>fore you admit them to be dipped?</hi>
+            </p>
+            <p>
+               <label>A.</label>
+               <list>
+                  <item>1 We promiſe and ſweare to walk with our Brethren and Siſters (in the Congregation we are received into) with all watchfullneſſe, and tenderneſſe, avoyding all jealouſies, cenſu<g ref="char:EOLhyphen"/>rings, and provokings.</item>
+                  <item>2 To do nothing againſt the Members.</item>
+                  <item>3 Not publikely to diſcover the failings of our Brethren or Siſters, but attend an orderly call thereunto.</item>
+               </list>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>Hath the Paſtor power to receive whom he will into the Congregation?</hi>
+            </p>
+            <p>
+               <label>A.</label> Yes except the Congregation alledge ſom<g ref="char:EOLhyphen"/>thing againſt the perſon preſented.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>In what manner are they dipped when they are received into Church-fellowſhip?</hi>
+            </p>
+            <p>
+               <label>A.</label> After the perſons to be dipped are exa<g ref="char:EOLhyphen"/>amined and have declared a ſufficient teſtimony before the Congregation, and taken the Oath, the Paſtor, that is the Dipper, taketh the perſon that is to be dipped, and goeth with him or her whether it be man or woman into the water, and there ſetting one hand upon the backe, and the other upon the head, dips the ſaid perſon quite over head and eares, and then leadeth him or her
+<pb n="11" facs="tcp:169444:7"/>
+ſo dipped by the arme out of the water, and pre<g ref="char:EOLhyphen"/>ſenteth them to the Congregation, who receive them as Members of their Congregation.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is the Deacons office amongſt the A<g ref="char:EOLhyphen"/>nabaptiſts?</hi>
+            </p>
+            <p>
+               <label>A.</label> To gather the Contributions of the Church, and take care to ſee the Congregation provided for, and if any perſon of the Congre<g ref="char:EOLhyphen"/>gation be in trouble, to labour and uſe all the meanes he can to get him free.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is it that is in the power of the Con<g ref="char:EOLhyphen"/>gregation?</hi>
+            </p>
+            <p>
+               <label>A.</label> Whatſoever is done, is confirmed by the approbation of them, for againſt their conſent the Paſtor and Deacon hath not power to do a<g ref="char:EOLhyphen"/>ny thing.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>In whoſe power then is the Ordinance of marriage?</hi>
+            </p>
+            <p>
+               <label>A.</label> There are many things required in the or<g ref="char:EOLhyphen"/>der of marriage before it be done.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What are thoſe things that are required?</hi>
+            </p>
+            <p>
+               <label>A.</label>
+               <list>
+                  <item>1 That both parties be Anabaptiſts.</item>
+                  <item>2 That both parties be agreed.</item>
+                  <item>3 That they have the conſent of the Church.</item>
+                  <item>And fourthly, that they be married according to the way of the Church with which they walke.</item>
+               </list>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>Why muſt both parties be Anabaptiſts?</hi>
+            </p>
+            <p>
+               <pb n="12" facs="tcp:169444:8"/>
+               <label>A.</label> Becauſe the one being ſo, it would be of evill conſequence to be yoked with the wicked that have not been rebaptiſed.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>How farre muſt the parties (to be mar<g ref="char:EOLhyphen"/>ried) be agreed?</hi>
+            </p>
+            <p>
+               <label>A.</label> To their well liking one of the other with<g ref="char:EOLhyphen"/>out forcing either of them by violence to marry one that he or ſhe cannot love.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Which is the way of marriage in the A<g ref="char:EOLhyphen"/>nabaptiſts Church?</hi>
+            </p>
+            <p>A. Both parties coming before the Congre<g ref="char:EOLhyphen"/>gation they joyne hands and taking each other for man and wife, promiſing to live and dye to<g ref="char:EOLhyphen"/>gether, and ſo kiſſe and are made man and wife.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>And what is your order of buriall for the dead?</hi>
+            </p>
+            <p>
+               <label>A.</label> When any perſon is dead, we invite our neighbours, and friends, and having ſerved them with wine and bisket, or diet-bread or ſugar-plums as all others do, we go together and when we come to the grave the bearers put the corpes into the grave and ſo we part without a<g ref="char:EOLhyphen"/>ny more Ceremony or trouble.</p>
+         </div>
+         <div type="dialogue">
+            <pb n="13" facs="tcp:169444:8"/>
+            <head>A briefe Diſcourſe between an Independent and an Anabaptiſt.</head>
+            <sp>
+               <speaker>Independent.</speaker>
+               <p>Of what religion are you?</p>
+            </sp>
+            <sp>
+               <speaker>Anabaptiſt.</speaker>
+               <p>
+                  <hi>I am one of thoſe commonly cal<g ref="char:EOLhyphen"/>led Anabaptiſts. I pray you what religion are you of?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Indep.</speaker>
+               <p>I am one of thoſe called Independents.</p>
+            </sp>
+            <sp>
+               <speaker>Anab.</speaker>
+               <p>
+                  <hi>I am verie glad I have ſo ſeaſonably met with you brother, we ſhould rejoyce in one another; for you know wee ſuffer, and are re<g ref="char:EOLhyphen"/>proached by the wicked.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Indep.</speaker>
+               <p>But it is long of you Anabaptiſts, that we ſuffer ſo as we do, under many honeſt meaning men, who know not the difference between us and you.</p>
+            </sp>
+            <sp>
+               <speaker>Anab.</speaker>
+               <p>
+                  <hi>Why, both you and we are Indepen<g ref="char:EOLhyphen"/>dents, and we deſire the libertie of conſcience as you do, though we differ in ſome things.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Indep.</speaker>
+               <p>Wee deny to be Independents, though they call us ſo, becauſe you and other factious peo<g ref="char:EOLhyphen"/>ple are ſo; common people not knowing the diffe<g ref="char:EOLhyphen"/>rence; wee do not deſire any libertie of conſcience further than Gods word will beare, abhorring that falſe doctrine which you do daily broach among you. There is more difference between us and you, than between you and the Papiſts.</p>
+            </sp>
+            <sp>
+               <pb n="14" facs="tcp:169444:9"/>
+               <speaker>Anab.</speaker>
+               <p>
+                  <hi>But I pray you tell mee why you do charge us ſo high, for what cauſe do you do it?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Indep.</speaker>
+               <p>You do not only teach to your owne diſ<g ref="char:EOLhyphen"/>ciples, but print, and publiſh blaſphemies, and pro<g ref="char:EOLhyphen"/>fane, ſcurrillous, and naughtie things, and the ge<g ref="char:EOLhyphen"/>nerallitie of the people take us and you to be all one, and ſo wee are hardly thought on for your ſakes, though wee abhor, and do utterly diſclaime your wretched and horrible impietie therein,</p>
+            </sp>
+            <sp>
+               <speaker>Anab.</speaker>
+               <p>
+                  <hi>Why, but you know that the com<g ref="char:EOLhyphen"/>mon people envie you as much as us; and in that relation you ſtand in oppoſition to them juſt as we do: and therefore why ſhould there be any difference between us amongſt our ſelves?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Indep.</speaker>
+               <p>I tell you, it is your unjuſt wayes, your blaſphemous tenets, and baſe libells, that have gi<g ref="char:EOLhyphen"/>ven juſt offence, and moſt people beleeve wee are ſuch as you, they not knowing the difference be<g ref="char:EOLhyphen"/>tween us, you calling your ſelves Independants, as they call us: and I tell you, we do proteſt as much againſt you, as ever wee did againſt the Biſhops; and therefore I will leave you, and deſire to have nothing to do with you, and ſo adieu.</p>
+            </sp>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
